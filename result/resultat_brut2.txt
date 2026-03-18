@@ -1,0 +1,50 @@
+0.8631 | Departement d'Informatique de Tizi-Ouzou
+0.9097 | Annee Universitaire 2024/2025
+0.9347 | Examen de "resolution de problemes"
+0.9636 | Documents: non autorises.
+0.9112 | Duree: 1h 30mn.
+0.8965 | Exercice n1:(Plan d'actions)(10 pts)
+0.7554 | Soit un universformé dequelquessallesSoaS6contenant unrobot(AlfredetunecaisseK),et
+0.9295 | dont on connait la liste des passages preliant les salles Si et Sj.
+0.9287 | Initialement, Alfred est en S3.K en S4.
+0.6390 | $P_{22}$
+0.9927 | Alfred
+0.9943 | S2
+0.9368 | S3
+0.9004 | S1
+0.7256 | $P_{}$
+0.5922 | $P_{$
+0.6096 | $P_{3$
+0.7556 | S0
+0.6522 | P{ $
+0.9464 | S4
+0.8562 | K
+0.9831 | S5
+0.9878 | S6
+0.9981 | caisse
+0.6101 | $P{$
+0.5780 | P56$
+0.9419 | On veut engendrer le plan dactions permettant au robot de ramener K en S1.
+0.7916 | 1)Apres avoir refleciaux differentsstades duproblemedecide dunformalisme adequat pour
+0.9315 | definir (5 pts):
+0.9052 | -les etats du systeme (robotcaisse),chaque objet possedant un emplacement dans l'univers
+0.9489 | considere.
+0.8846 | les actions (Poser, Passer porte, Approcher_porte, Approcher_objet, Prendre) assurant des
+0.8751 | transitions entre états.Chaque action sera definie en termes de preconditions (applicabilite)
+0.9206 | et d'effets. Par exemple:
+0.9268 | Poser:SiXest un robot et X porte Y et XenS
+0.9098 | oter:X porte Y
+0.8812 | ajouter: Y en S.
+0.8934 | 2)Donner le plan dactions permettant au robot de ramener K en Sl.(5 pts)
+0.8758 | Exercice n°2:(10 pts)
+0.9671 | Considerons le raisonnement suivant:
+0.9672 | L'antilope est un animal herbivore.
+0.9738 | Le lion est un animal feroce.
+0.9679 | Un animal feroce est carnivore.
+0.9840 | Un carnivore peut manger un herbivore.
+0.9442 | Un animal chasse ce qu'il mange.
+0.9188 | done le lion chasse l'antilope.
+0.9087 | 1) Traduire ce raisonnement en formule de la logique des predicats.(3 pts)
+0.8172 | 2Prouver la validite de ce raisonnementaaidede la strategie deresolutiongenerale.3pts)
+0.9284 | 3) Ecrire en Prolog les formules precedentes.(2 pts)
+0.8140 | 4)Prouver lvalidite duraisonnementenutilisant lastrategiederesolutionen Prolog.(2pts)
